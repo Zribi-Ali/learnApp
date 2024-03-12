@@ -1,0 +1,285 @@
+{
+      "termsAndConditions" : "الاحكام و الشروط",
+
+      "privacyPolicy" : "سياسة الخصوصية",
+
+      "aboutUS" : "من نحن",
+
+      "contactUS" : "من نحن",
+
+      "masdarTraining" : "مصدر للتدريب",
+
+     "streamToday" : "بث مباشر اليوم في",
+
+     "operationSuccess": "لقد تمت العملية بنجاح",
+
+     "noDiscussion": "لم يتم العثور على أي محادثة",
+
+     "cardInfo" : "ادخل بيانات بطاقتك",
+
+    "deleteUser" : "حذف مستخدم",
+
+    "accountDeleted"  : "تم حذف حسابك بنجاح",
+
+    "noStudentsForStream" : "لا أحد يشاهد هذا البث",
+
+    "updatedSuccess" : "تم تحديث حسابك بنجاح",
+
+    "addReviewSuccess" : "لقد تمت اضافة التقييم بنجاح",
+    
+    "addReviewError": "الرجاء كتابة التقييم",
+
+    "addReview": "اضافة تقييم",
+
+    "writeReply" : "اكتب رد",
+
+    "subject" : "موضوع",
+
+    "subjectDescription" :"وصف الموضوع",
+
+    "noComments" : "لا توجد تعليقات متاحة",
+
+    "courseAdded" : "تم إضافة الدورة",
+
+    "noVideos" : "لا توجد مقاطع فيديو متاحة",
+
+    "chooseRating" :"قم باختيار التقييم",
+
+    "addComment" :"اضافة تعليق",
+
+    "teacher" : "المدرس",
+
+    "noModifications" : "لم يتم العثور على أي تعديلات",
+
+    "failedOperation" :"حدث خطأ غير متوقع في الخادم ، فشلت عملية التعديل",
+    
+    "noFiles" : "لا توجد ملفات متاحة",
+
+    "noStreams" : "لا يوجد بث مباشر متاح لهذا الوقت",
+    
+    "liveStreaming" : "البث المباشر",
+    "liveNow" :" البث الحالي",
+
+    "liveUpcoming" :"البث القادم",
+
+    "liveDone" : "البث القديم",
+    
+    "download" : "تحميل",
+
+    "reviews" :"التقييمات",
+     
+    "comments" : "تعليقات",
+
+    "resume" : "ملخص",
+    
+    "noCityError" :"الرجاء اختيار مدينة",
+
+    "failedSignUp" : "حدث خطأ غير متوقع في الخادم ، فشلت عملية التسجيل",
+    
+    "noUser" : "المستخدم غير موجود",
+
+    "noCourses" : "لا توجد دورات متاحة",
+
+    "noCoursesForLang" : "لا توجد دورات متاحة لهذه اللغة",
+
+    "noUnitsForCourse" : "لا توجد وحدات متاحة لهذه الدورة",
+    
+    "unRead1" : "لديك",
+    
+    "unRead2" : "رسائل غير مقروءة",
+    
+    "chat" : "المحادثات",
+
+    "onlineMeeting" : "الانضمام للقاء على الانترنت",
+
+    "units" : "الوحدات",
+
+    "chooseUnit" : "الرجاء اختيار وحدة",
+
+    "changePasswordMessage" : "الرجاء تغيير كلمة المرور",
+
+    "incorrectPin" : "رمز غير صحيح، يرجى المحاولة مرة أخرى",
+    
+    "verification" : "تَحَقّق",
+
+    "verify" : "تحقق",
+    
+    "participateCourse" : "اشترك في هذه الدورة",
+    
+    "forgetPasswordMessage1" :  "سوف يصلك كود التفعيل على الايميل يرجى تغيير كلمة المرور",
+
+    "codeMessage1" : "لم يصلني الكود بعد",
+
+    "resend" : "اعادة ارسال",
+
+    "forgetPasswordMessage" : "الرجاء إدخال بريدك الإلكتروني لمواصلة هذا الإجراء",
+    
+    "language" : "اللغة",
+
+    "logIn" : "تسجيل الدخول",
+
+    "userName" : "معرف المستخدم",
+
+    "password" : "كلمة المرور",
+
+    "passwordError" : "الرجاء إدخال كلمة مرور",
+
+    "confirmPassword" : "تاكيد كلمة المرور",
+
+    "confirmPasswordError" : "الرجاء التثبت من كلمة المرور",
+
+    "forgetPassword" : "نسيت كلمة المرور",
+
+    "recoverPassword" : "استرجاع كلمة المرور",
+
+    "newAccount" : "تسجيل حساب جديد",
+
+    "signUp" : "تسجيل حساب",
+
+    "userNameErrorMessage": "الرجاء إدخال اسم مستخدم",
+
+    "email" : "البريد الالكتروني",
+
+    "emailError1" : "الرجاء إدخال البريد الالكتروني",
+
+    "emailError2": "الرجاء التثبت من البريد الالكتروني",
+
+    "agreeConditions" : "اوافق على شروط الاستخدام",
+
+    "agreeConditionsError" : " الرجاء الموافقة على شروط الاستخدام",
+
+    "alreadyUser" : "لديك حساب بالفعل",
+
+    "city" : "مدينة",
+
+    "changeLanguage" : "تغيير اللغة",
+    
+    "english" :     "اللغة الانجليزية",
+
+    "french" :     "اللغة الفرنسية",
+
+    "spanish" :     "اللغة الاسبانية ",
+
+    "chinese" :    "اللغة الصينية",
+
+    "turkish" :     "اللغة التركية",
+
+    "korean":      "اللغة الكورية ",
+
+    "german" : "اللغة الالمانية",
+
+    "arabic" :"اللغة العربية",
+
+    "tests" : "التدريب لاختبار التوفل و الايلتس ",
+
+   
+   "back" : "عودة",
+   
+    "viewReplies" : "عرض الردود",
+    
+    "mainPage" : "الرئيسية",
+
+    "myPage" : "صفحتي",
+
+    "notification" : "الإشعارات",
+
+    "myLessons" :  "دروسي",
+
+    "profile" :  "الملف الشخصي",
+
+    "loading"  :  "جار التحميل",
+    
+    "registrationDate" : "تم التسجيل بتاريخ",
+
+    "modifyProfile" : "تعديل الملف الشخصي",
+    
+    "activateNotifications" : "تفعيل التنبيهات",
+
+    "terms" : "شروط الاستخدام",
+
+    "askedQuestions" : "الاسالة الشائعة",
+
+    "writeUs" : "راسلنا",
+
+    "events" : "فعاليات",
+
+    "addPhoneNumber" : "اضافة رقم الهاتف",
+
+    "exit" : "خروج",
+
+    "notificationTileText" :  "تم اضافة درس انجليزي جديد اليوم",
+
+    "notificationTileRemove" : "هل تريد حذف التنبيه التالي",
+
+    "cancel" : "الغاء",
+
+    "remove" : "حذف",
+
+    "done" : "منتهي",
+
+    "lessons" : "دروس",
+
+    "minute" : "دقيقة",
+
+    "progress" : "جاري التعليم",
+
+    "newId" : "جديد",
+    
+    "save" : "حفظ",
+
+    "question" : "سؤال",
+
+    "messageContent" : "محتوى الرسالة",
+
+    "message" : "الرسالة",
+
+    "or" : "أو",
+
+    "whatsApp" : "واتس اب", 
+
+    "phone" : "تلفون",
+
+    "send" : "ارسل",
+
+    "phoneNumber" : "رقم الهاتف",
+
+    "phoneNumberError" :    "الرجاء اضافة رقم الهاتف",
+
+    "methodLearning" : "طريقة التعلم",
+
+    "methodLearningFavorite" : "برجاء اختيار الطريقة المقضلة للتعلم",
+
+    "method1" : "تعليم منهجي",
+
+    "method2" : "دورات مستقلة",
+
+    "chooseGrade" : "برجاء اختيار مرحلتك المدرسية",
+
+    "classes" : "اختيار الصف",
+
+    "chooseClass" : "برجاء اختيار الصف",
+
+    "coursesAvailable" :  "الدورات المنهجية المتوفرة",
+
+    "courses" : "دورات",
+
+    "independentCourses" : "الدورات المستقلة المتوفرة",
+
+    "chooseCourse" : "برجاء اختيار الدورة",
+
+    "recordedLessons" : "دروس مسجلة",
+
+    "recordedCouses" : "دورات مسجلة",
+
+    "recordedLessonsMessage" : "تعليم من خلال فيديوهات مسجلة",
+
+    "liveLearning" : "تعليم مباشر",
+
+    "liveLearningMessage": "تعليم مباشرة مع مدرب لغة",
+
+    "records"  : "سجلات الدفع",
+
+    "orderNumber" : "الطلب رقم" ,
+
+    "payment"  : "الدفع"
+}

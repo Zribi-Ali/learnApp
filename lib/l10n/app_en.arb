@@ -1,0 +1,728 @@
+{
+
+    "termsAndConditions" : "Terms And Conditions",
+    "@termsAndConditions" : {
+            "description" : ""
+    },
+
+    "privacyPolicy" : "Privacy Policy",
+    "@privacyPolicy" : {
+            "description" : ""
+    },
+
+    "aboutUS" : "About US",
+    "@aboutUS" : {
+            "description" : ""
+    },
+
+    "contactUS" : "Contact US",
+    "@contactUS" : {
+            "description" : ""
+    },
+
+    "masdarTraining" : "Masdar Training",
+    "@masdarTraining" : {
+            "description" : ""
+    },
+
+    "back" : "Go back",
+    "@back" : {
+        "description" : ""
+    },
+
+    "streamToday" : "Stream today at",
+    "@streamToday" : {
+        "description" : ""
+    },
+
+    "operationSuccess" : "This operation was successful",
+    "@operationSuccess" : {
+        "description" : ""
+    },
+
+    "noDiscussion" : "No discussion found",
+    "@noDiscussion" : {
+        "description" : ""
+    },
+
+    "cardInfo" : "Enter your card information",
+    "@cardInfo" : {
+        "description" : ""
+    },
+
+    "accountDeleted" : "Your account has been successfully deleted",
+    "@accountDeleted" : {
+        "description" : ""
+    },
+
+    "deleteUser" : "Delete user",
+    "@deleteUser" : {
+        "description" : ""
+    },
+
+    "noStudentsForStream" : "No one is watching",
+    "@noStudentsForStream" : {
+        "description" : ""
+    },
+
+     "updatedSuccess" : "your account has been updated successfully",
+    "@updatedSuccess" : {
+        "description" : ""
+    },
+
+    "viewReplies" : "Replies",
+    "@viewReplies" : {
+        "description" : ""
+    },
+
+    "addReviewSuccess" : "Your review has been added",
+    "@addReviewSuccess" : {
+        "description" : ""
+    },
+
+    "addReviewError" : "Please write a review",
+    "@addReviewError" : {
+        "description" : ""
+    },
+
+    "addReview" : "Add review",
+    "@addReview" : {
+        "description" : ""
+    },
+
+    "writeReply" : "Write a reply",
+    "@writeReply" : {
+        "description" : ""
+    },
+
+    "subject" : "Subject",
+    "@subject" : {
+        "description" : ""
+    },
+
+     "subjectDescription" : "Subject description",
+     "@subjectDescription" : {
+        "description" : ""
+    },
+
+    "noComments" : "No comments",
+     "@noComments" : {
+        "description" : ""
+    },
+
+    "courseAdded" : "This course has been added",
+     "@courseAdded" : {
+        "description" : ""
+    },
+    
+    "noVideos" : "No video available",
+     "@noVideos" : {
+        "description" : ""
+    },
+
+    "chooseRating" : "Choose your rating",
+     "@chooseRating" : {
+        "description" : ""
+    },
+
+    "addComment" : "Add comment",
+     "@addComment" : {
+        "description" : ""
+    },
+
+    "teacher" : "Teacher",
+     "@teacher" : {
+        "description" : ""
+    },
+
+    "noModifications" : "No modifications are found",
+     "@noModifications" : {
+        "description" : ""
+    },
+
+     "failedOperation" : "Unexpected Server error occurred, your operation failed",
+     "@failedProfileModification" : {
+        "description" : ""
+    },
+
+    "noFiles" :"No Files available" ,
+    "@noFiles" : {
+        "description" : ""
+    },
+
+    "noStreams" :"No streams are available" ,
+    "@noStreams" : {
+        "description" : ""
+    },
+
+    "liveStreaming" :"Live Streaming" ,
+    "@liveStreaming" : {
+        "description" : ""
+    },
+
+    "liveNow" :"Live now" ,
+    "@liveNow" : {
+        "description" : ""
+    },
+    
+    "liveUpcoming" :"Upcoming live" ,
+    "@liveUpcoming" : {
+        "description" : ""
+    },
+
+    "liveDone" :"Past live" ,
+    "@liveDone" : {
+        "description" : ""
+    },
+
+    "download" :"Download" ,
+    "@download" : {
+        "description" : ""
+    },
+
+    "reviews" :"Reviews" ,
+    "@reviews" : {
+        "description" : ""
+    },
+
+    
+    "comments" :"Comments" ,
+    "@comments" : {
+        "description" : ""
+    },
+
+    "resume" :"Resume" ,
+    "@resume" : {
+        "description" : ""
+    },
+
+    "noCityError" :"Please Choose a city" ,
+    "@noCityError" : {
+        "description" : ""
+    },
+
+    "failedSignUp" :"Unexpected Server error occurred, your sign up failed" ,
+    "@failedSignUp" : {
+        "description" : ""
+    },
+    
+
+    "noUser" :"User is not found" ,
+    "@noUser" : {
+        "description" : ""
+    },
+
+
+    "noCourses" : "There are no courses available" ,
+    "@noCourses" : {
+        "description" : ""
+    },
+
+
+    "noCoursesForLang" : "There are no courses available for this language" ,
+    "@noCoursesForLang" : {
+        "description" : ""
+    },
+    
+
+    "noUnitsForCourse" : "There are no available units for this course" ,
+    "@noUnitsForCourse" : {
+        "description" : ""
+    },
+
+    "unRead1" : "You have" ,
+    "@unRead1" : {
+        "description" : ""
+    },
+
+    "unRead2" : "unread messages" ,
+    "@unRead2" : {
+        "description" : ""
+    },
+
+    "chat" : "Chat" ,
+    "@chat" : {
+        "description" : ""
+    },
+
+    "onlineMeeting" : "Join online meeting",
+    "@onlineMeeting" : {
+        "description" : ""
+    },
+    
+
+    "units" : "Units",
+    "@units" : {
+        "description" : ""
+    },
+    
+    "chooseUnit" : "Please choose a unit",
+    "@chooseUnit" : {
+        "description" : ""
+    },
+    
+    "changePasswordMessage" : "Please change your password",
+    "@changePasswordMessage" : {
+        "description" : ""
+    },
+
+    "incorrectPin" : "incorrect code please try again",
+    "@incorrectPin" : {
+        "description" : ""
+    },
+
+    "verification" : "Verification",
+    "@verification" : {
+        "description" : ""
+    },
+
+   "verify" : "Verify",
+    "@verify" : {
+        "description" : ""
+    },
+
+    "participateCourse" : "Participate in this course",
+    "@participateCourse" : {
+        "description" : ""
+    },
+
+    "forgetPasswordMessage1" : "You're going to receive a recovery code via email please change your password",
+    "@forgetPasswordMessage1" : {
+        "description" : ""
+    },
+
+    
+
+    "codeMessage1" : "I still haven't received the code",
+    "@codeMessage1" : {
+        "description" : ""
+    },
+
+    "resend" : "Resend",
+    "@resend" : {
+        "description" : ""
+    },
+
+
+    "forgetPasswordMessage" : "Please enter your email address to continue this procedure",
+    "@forgetPasswordMessage" : {
+        "description" : ""
+    },
+
+    "language" : "Language",
+    "@language" : {
+        "description" : ""
+    },
+
+   "logIn" : "Log in",
+   "@logIn" : {
+        "description" : "log in text"
+   },
+
+   "userName" : "User id",
+   "@userName" : {
+       "description" : "user id"
+   },
+
+   "password" : "Password",
+   "@password" : {
+        "description" : "account password"
+   },
+
+    "passwordError" : "Please enter your password",
+    "@passwordError" : {
+        "description" : "password error message"
+    },
+
+    "confirmPassword" : "Confirm your password",
+    "@confirmPassword" : {
+        "description" : "confirm a user's password"
+    },
+
+    "confirmPasswordError" : "please enter the same password",
+    "@confirmPasswordError" : {
+        "description" : "confirm a user's password"
+    },
+
+    "forgetPassword" : "Forgot your password",
+    "@forgetPassword" : {
+        "description" : "option to recuperate one's forgotten password"
+    },
+
+    "recoverPassword" : "Recover your password",
+    "@recoverPassword" : {
+        "description" : ""
+    },
+
+    "newAccount" : "Create new account",
+    "@newAccount"  : {
+        "description" : "create a new account"
+    },
+
+    "signUp" : "Sign up",
+    "@signUp"  : {
+        "description" : "create a new account button"
+    },
+
+    "userNameErrorMessage" : "Please enter a user id",
+    "@userNameErrorMessage" : {
+        "description" : "diplayed message when the user id is omitted"
+    },
+
+    "email" : "Email Address",
+    "@email" : {
+        "description" : "a user's email address"
+    },
+
+    "emailError1" : "Please enter your email address",
+    "@emailError1" : {
+        "description" : "email address error message 1"
+    },
+
+    "emailError2" : "Plese check your email format",
+    "@emailError2" : {
+        "description" : "email address error message 2"
+    },
+
+    "agreeConditions" : "I agree to these terms",
+    "@agreeConditions" : {
+        "description" : "Agreement to terms"
+    },
+
+    "agreeConditionsError" : "Please agree to our terms",
+    "@agreeConditionsError" : {
+        "description" : "Agreement to terms error message"
+    },
+
+    "alreadyUser" : "I already have an account",
+    "@alreadyUser" : {
+        "description" : "You already have an account"
+    },
+
+   "city" : "Your City",
+    "@city" : {
+        "description" : "user's city"
+    },
+
+    "changeLanguage" : "Change language",
+    "@changeLanguage" : {
+        "description" : "ability to change the app's current language"
+    },
+
+    "english" :  "English",
+    "@english" : {
+        "description" :""
+    },
+
+    "french" :  "French",
+    "@french" : {
+        "description" :""
+    },
+
+    "spanish" :  "Spanish",
+    "@spanish" : {
+        "description" :""
+    },
+
+    "chinese" :  "Chinese",
+    "@chinese" : {
+        "description" :""
+    },
+
+    "turkish" : "Turkish",
+    "@turkish" : {
+        "description" : ""
+    },
+
+    "korean": "Korean",
+    "@korean" :{
+        "description" :""
+    },
+
+    "german": "German",
+    "@german" :{
+        "description" :""
+    },
+
+    "arabic": "Arabic",
+    "@arabic" :{
+        "description" :""
+    },
+
+    "tests" : "Training for the TOEFL and IELTS tests",
+    "@tests" : {
+        "description" : ""
+    },
+
+    "mainPage" : "Main page",
+    "@mainPage" : {
+        "description" : ""
+    },
+
+    "myPage" : "My page",
+    "@myPage" : {
+        "description" : ""
+    },
+
+    "notification" : "Notification",
+    "@notification" : {
+        "description" : ""
+    },
+
+    "myLessons" : "My lessons",
+    "@myLessons" : {
+        "description" : ""
+    },
+
+    "profile" : "Profile",
+    "@profile" : {
+        "description" : ""
+    },
+
+    "loading": "Loading",
+    "@loading" : {
+        "description" : ""
+    },
+
+    "registrationDate": "Registered on",
+    "@registrationDate" : {
+        "description" : ""
+    },
+
+    "modifyProfile": "Modify Profile",
+    "@modifyProfile" : {
+        "description" : ""
+    },
+    
+    "activateNotifications": "Turn notifications on",
+    "@activateNotifications" : {
+        "description" : ""
+    },
+
+    "terms": "Terms of use",
+    "@terms" : {
+        "description" : ""
+    },
+
+    "askedQuestions": "Frequently asked questions",
+    "@askedQuestions" : {
+        "description" : ""
+    },
+
+    "writeUs": "Write us",
+    "@writeUs" : {
+        "description" : ""
+    },
+
+    "events": "Events",
+    "@events" : {
+        "description" : ""
+    },
+
+    "addPhoneNumber": "Add your phone number",
+    "@addPhoneNumber" : {
+        "description" : ""
+    },
+
+    "payment" : "electronic payment",
+    "@payment" : {
+        "description" : ""
+    },
+
+    "exit" : "Exit",
+    "@exit" : {
+        "description" : ""
+    },
+
+    "notificationTileText" : "A new english lesson has been added",
+    "@notificationTileText" : {
+        "description" : ""
+    },
+
+    "notificationTileRemove" : "Are you sure you want to delete this notification",
+    "@notificationTileRemove" : {
+        "description" : ""
+    },
+
+    "cancel" : "Cancel",
+    "@cancel" : {
+        "description" : ""
+    },
+
+    "remove" : "Remove",
+    "@remove" : {
+        "description" : ""
+    },
+
+    "done" : "Done",
+    "@done" : {
+        "description" : ""
+    },
+
+    "lessons" : "Lessons of",
+    "@lessons" : {
+        "description" : ""
+    },
+
+    "minute" : "Minute",
+    "@minute" : {
+        "description" : ""
+    },
+
+    "progress" : "In progress",
+    "@progress" : {
+        "description" : ""
+    },
+
+    "newId" : "New",
+    "@newId" : {
+        "description" : ""
+    },
+
+    "save" : "Save change",
+    "@save" : {
+        "description" : ""
+    },
+
+    "question" : "Question",
+    "@question" : {
+        "description" : ""
+    },
+
+    "messageContent" : "Message content",
+    "@messageContent" : {
+        "description" : ""
+    },
+
+    "message" : "Message",
+    "@message" : {
+        "description" : ""
+    },
+
+    "or" : "Or",
+    "@or" : {
+        "description" : ""
+    },
+
+    "whatsApp" : "WhatsApp",
+    "@whatsApp" : {
+        "description" : ""
+    },
+
+    "phone" : "Phone",
+    "@phone" : {
+        "description" : ""
+    },
+
+    "send" : "Send",
+    "@send" : {
+        "description" : ""
+    },
+
+    "phoneNumber" : "Phone number",
+    "@phoneNumber" : {
+        "description" : ""
+    },
+
+    "phoneNumberError" : "Please add your phone number",
+    "@phoneNumberError" : {
+        "description" : ""
+    },
+
+    "methodLearning" : "Learning method",
+    "@methodLearning" : {
+        "description" : ""
+    },
+
+    "methodLearningFavorite" : "Please choose your preferred Learning method",
+    "@methodLearningFavorite" : {
+        "description" : ""
+    },
+
+    "method1" : "Systematic education",
+    "@method1" : {
+        "description" : ""
+    },
+
+    "method2" : "Independent courses",
+    "@method2" : {
+        "description" : ""
+    },
+
+    "chooseGrade" : "Plese select your level of education",
+    "@chooseGrade" : {
+        "description" : ""
+    },
+
+    "classes" : "Available classes",
+    "@classes" : {
+        "description" : ""
+    },
+
+    "chooseClass" : "Please select your class",
+    "@chooseClass" : {
+        "description" : ""
+    },
+
+    
+    "coursesAvailable" : "Systematic courses",
+    "@coursesAvailable" : {
+        "description" : ""
+    },
+
+    "courses" : "Courses",
+    "@courses" : {
+        "description" : ""
+    },
+
+    "independentCourses" : "Independent courses",
+    "@independentCourses" : {
+        "description" : ""
+    },
+
+    "chooseCourse" : "Please select your course",
+    "@chooseCourse" : {
+        "description" : ""
+    },
+
+    "recordedLessons" : "Recorded lessons",
+    "@recordedLessons" : {
+        "description" : ""
+    },
+
+    "recordedCouses" : "Recorded courses",
+    "@recordedCouses" : {
+        "description" : ""
+    },
+
+    "recordedLessonsMessage" : "Learning from recorded videos",
+    "@recordedLessonsMessage" : {
+        "description" : ""
+    },
+
+    "liveLearning" : "Live learning",
+    "@liveLearning" : {
+        "description" : ""
+    },
+
+    "liveLearningMessage" : "Live learning with a language coach",
+    "@liveLearningMessage" : {
+        "description" : ""
+    },
+
+    "records" : "Payment records",
+    "@recordes" : {
+        "description" : ""
+    },
+
+    "orderNumber" : "Order number",
+    "@orderNumber" : {
+        "description" : ""
+    }
+
+
+
+
+    
+    
+}
